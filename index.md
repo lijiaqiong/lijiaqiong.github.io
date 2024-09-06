@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "九三网络日志"
-  text: "持续关注AI每日快讯、推荐技术学报"
+#  text: "持续关注AI每日快讯、推荐技术学报"
   tagline: 做一个能够成事的人，努力把事做成
   actions:
     - theme: brand
-      text: 技术学报
-      link: /docs/learning/
+      text: 个人公众号
+      link: /wxapp.md
     - theme: alt
       text: 免费知识星球
       link: /api-examples

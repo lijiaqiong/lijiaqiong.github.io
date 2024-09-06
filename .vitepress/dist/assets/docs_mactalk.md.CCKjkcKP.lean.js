@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a3 as p}from"./chunks/framework.D5qxx6u8.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/mactalk.md","filePath":"docs/mactalk.md"}'),s={name:"docs/mactalk.md"},c=p("",10),o=[c];function _(r,n,i,l,m,d){return a(),e("div",null,o)}const k=t(s,[["render",_]]);export{h as __pageData,k as default};
