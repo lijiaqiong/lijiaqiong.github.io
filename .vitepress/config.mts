@@ -19,8 +19,8 @@ export default defineConfig({
 
     sidebar: sidebar,  // 详情页侧边栏
     footer: {
-      message: '九三二十七 （微信：jql9327)',
-      copyright: 'Copyright © 2024 blog'
+      message: '九三二十七 (微信：jql9327)',
+      copyright: 'Copyright © 2025 blog'
     },
     docFooter: {
       prev: '上一页',
